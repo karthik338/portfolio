@@ -4270,13 +4270,23 @@ div[role="progressbar"] {
 .gallery {
     width: 100%;
     float: left;
-    margin-top: 30px;
+    margin-top: 20px;
+    gap: 20px;
+    justify-content: space-between;
 }
 
 .gallery img {
     height: auto;
     width: 95%;
     margin-bottom: 20px;
+}
+
+.apir2 img{
+    height:266px;
+}
+
+.project img{
+    height: 266px;
 }
 
 /*CONTACT US SECTION*/
